@@ -1,2 +1,2 @@
 My first readme
-Hell Betty
+Hello Betty
